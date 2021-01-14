@@ -1,0 +1,18 @@
+
+1. Linear Kernel:
+The best parameters:  {'C': 0.18}
+accurac: 0.9541284403669725
+The best parameters:  {'C': 0.18}
+accurac: 0.9629629629629629
+The best parameters:  {'C': 0.07}
+accurac: 0.9722222222222222
+Average 3-fold classification accuracy(along with standard deviation): 0.9631045418507193 (+/- 0.007387433875279217 )
+
+2. Gaussion Kernel (rbf):
+The best parameters:  {'C': 5, 'gamma': 0.02}
+accurac: 0.9541284403669725
+The best parameters:  {'C': 1.5, 'gamma': 0.05}
+accurac: 0.9351851851851852
+The best parameters:  {'C': 1.5, 'gamma': 0.1}
+accurac: 0.9722222222222222
+Average 3-fold classification accuracy(along with standard deviation): 0.95384528259146 (+/- 0.015121632669018408 )
